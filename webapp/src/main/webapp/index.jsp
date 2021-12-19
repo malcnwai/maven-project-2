@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Malcolm's First DevOps Pipeline creation success</h1>
-  <p>First Practice DevOps Pipeline!</p>
+  <p>Practice DevOps Pipeline!</p>
 </div>
 </body>
 </html>
