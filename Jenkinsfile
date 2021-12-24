@@ -23,7 +23,7 @@ pipeline {
       steps {
         sh """mvn sonar:sonar \
   -Dsonar.host.url=http://18.216.155.150:9000 \
-  -Dsonar.login=3162ec626026d2c0d1d0c70b70124ec6de1ebd6e"""
+  -Dsonar.login=3cd60bc3bbb01cdd9f5656e5d762fce1e6b9540"""
 
       }
     }
